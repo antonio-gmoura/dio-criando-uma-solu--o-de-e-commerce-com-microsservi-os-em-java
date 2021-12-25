@@ -1,6 +1,6 @@
 ## Digital Innovation One
 
-## Bootcamp: Capgemini  Java & Angular
+## Bootcamp: Capgemini Fullstack Java and Angular
 
 ## Módulo: Criando uma solução de e-commerce com microsserviços em Java
 
